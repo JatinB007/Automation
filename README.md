@@ -21,8 +21,8 @@ a. Prerequisites
 b. Setup Instructions
 
 1. Clone the Repository using bash: 
--> git clone <repository-url>
--> cd <repository-folder>   
+-> git clone "repository-url"
+-> cd "repository-folder"   
 
 2. Open a terminal/command prompt and navigate to the project directory (where the pom.xml file is located).
 
